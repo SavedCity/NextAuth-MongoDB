@@ -1,3 +1,7 @@
+# NextAuth/MongoDB authentication
+
+## This is a boilerplate set up with login/sign up functionalities using NextAuth's authentication service and MongoDB as a database.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
