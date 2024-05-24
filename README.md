@@ -1,8 +1,12 @@
 # NextAuth/MongoDB authentication
 
-## This is a boilerplate set up with login/sign up functionalities using NextAuth's authentication service and MongoDB as a database.
+### This is a boilerplate set up with login/sign up functionalities using NextAuth's authentication service and MongoDB as a database.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Setting up credentials
+
+- Create a `.env` file using the example from `example.env`.
+- Set up a cluster on MongoDB
+- Connect to the cluster using it's connectiong string on the `.env` file: `MONGODB_URI`.
 
 ## Getting Started
 
